@@ -1,0 +1,25 @@
+{
+  "name": "aura-bot",
+  "version": "0.0.1",
+  "keywords": [],
+  "description": "A simple helpful robot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supersonicAws/aura-bot.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  },
+  "bugs": {
+    "url": "https://github.com/supersonicAws/aura-bot/issues"
+  },
+  "homepage": "https://github.com/supersonicAws/aura-bot#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
